@@ -2,6 +2,8 @@
 <head>
   <title>Oh geez... What reality am I in?</title>
 </head>
+
+# is the docker malfunction gone?  
   
 <body>
 <h1> Server Information</h1>
